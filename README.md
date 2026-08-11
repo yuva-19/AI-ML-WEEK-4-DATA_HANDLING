@@ -1,26 +1,26 @@
-# NumPy Learning
+# AI/ML Week 4 - Data Handling
 
-My NumPy learning and practice work as part of my AI/ML Engineering roadmap.
+This repository contains my learning, practice, and projects from Week 4 of my AI/ML Engineering roadmap.
 
-## Topics Covered
+## Topics
 
-- ndarray
-- Array Creation
-- Indexing & Slicing
-- Reshaping
-- Broadcasting
-- Vectorization
-- Mathematical Operations
-- Aggregation Functions
-- Boolean Masking
-- Random Module
+- NumPy
+- Pandas
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis
+- Data Visualization
 
 ## Tools
 
 - Python
 - NumPy
+- Pandas
 - Jupyter Notebook
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
-## Purpose
+## Goal
 
-Building strong numerical computing and data-handling foundations for Machine Learning and AI.
+Build strong data-handling foundations for Machine Learning and AI Engineering.
