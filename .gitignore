@@ -2,5 +2,4 @@
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
-notebooks/pandas/data/results.csv
 notebooks/02_Pandas/data/results.csv
